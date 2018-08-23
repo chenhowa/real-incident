@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="7e64319adb80a300f4a3fbefbf96198f" sys_domain="global" table="x_240055_incident_real_incident" version="3" view="Self_service">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>chenhowa</sys_created_by>
+            <sys_created_on>2018-08-23 02:51:07</sys_created_on>
+            <sys_id>3a64319adb80a300f4a3fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240055_incident_real_incident" sys_domain="global" view="b664319adb80a300f4a3fbefbf96198d">7e64319adb80a300f4a3fbefbf96198f</sys_ui_section>
+            <sys_updated_by>chenhowa</sys_updated_by>
+            <sys_updated_on>2018-08-23 02:51:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>chenhowa</sys_created_by>
+            <sys_created_on>2018-08-23 02:51:07</sys_created_on>
+            <sys_id>ba64319adb80a300f4a3fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240055_incident_real_incident" sys_domain="global" view="b664319adb80a300f4a3fbefbf96198d">7e64319adb80a300f4a3fbefbf96198f</sys_ui_section>
+            <sys_updated_by>chenhowa</sys_updated_by>
+            <sys_updated_on>2018-08-23 02:51:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_incident</element>
+            <position>2</position>
+            <sys_created_by>chenhowa</sys_created_by>
+            <sys_created_on>2018-08-23 02:51:07</sys_created_on>
+            <sys_id>3e64319adb80a300f4a3fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240055_incident_real_incident" sys_domain="global" view="b664319adb80a300f4a3fbefbf96198d">7e64319adb80a300f4a3fbefbf96198f</sys_ui_section>
+            <sys_updated_by>chenhowa</sys_updated_by>
+            <sys_updated_on>2018-08-23 02:51:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_240055_incident_real_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chenhowa</sys_created_by>
+            <sys_created_on>2018-08-23 02:51:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e64319adb80a300f4a3fbefbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_240055_incident_real_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Incident Management" source="x_240055_incident">2ed07d5edbcc6300f4a3fbefbf961979</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Incident Management">2ed07d5edbcc6300f4a3fbefbf961979</sys_scope>
+            <sys_update_name>sys_ui_section_7e64319adb80a300f4a3fbefbf96198f</sys_update_name>
+            <sys_updated_by>chenhowa</sys_updated_by>
+            <sys_updated_on>2018-08-23 02:51:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self_service" name="Self_service">b664319adb80a300f4a3fbefbf96198d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
