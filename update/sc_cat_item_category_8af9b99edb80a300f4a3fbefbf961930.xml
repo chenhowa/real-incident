@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Real Incident Generator">1798f91edb80a300f4a3fbefbf961989</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>chenhowa</sys_created_by>
+        <sys_created_on>2018-08-23 03:15:22</sys_created_on>
+        <sys_id>8af9b99edb80a300f4a3fbefbf961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Real Incident Generator</sys_name>
+        <sys_package display_value="Incident Management" source="x_240055_incident">2ed07d5edbcc6300f4a3fbefbf961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management">2ed07d5edbcc6300f4a3fbefbf961979</sys_scope>
+        <sys_update_name>sc_cat_item_category_8af9b99edb80a300f4a3fbefbf961930</sys_update_name>
+        <sys_updated_by>chenhowa</sys_updated_by>
+        <sys_updated_on>2018-08-23 03:15:22</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
