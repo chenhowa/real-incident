@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>u_incident</element>
+        <name>x_240055_incident_real_incident</name>
+        <style>background-color: yellow;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>chenhowa</sys_created_by>
+        <sys_created_on>2018-08-23 02:55:05</sys_created_on>
+        <sys_id>3115b59adb80a300f4a3fbefbf9619d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_240055_incident_real_incident</sys_name>
+        <sys_package display_value="Incident Management" source="x_240055_incident">2ed07d5edbcc6300f4a3fbefbf961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management">2ed07d5edbcc6300f4a3fbefbf961979</sys_scope>
+        <sys_update_name>sys_ui_style_3115b59adb80a300f4a3fbefbf9619d5</sys_update_name>
+        <sys_updated_by>chenhowa</sys_updated_by>
+        <sys_updated_on>2018-08-23 02:58:15</sys_updated_on>
+        <value>javascript: gs.getUser().hasRole('itil') &amp;&amp; !gs.getUser().hasRole('admin')</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=3115b59adb80a300f4a3fbefbf9619d5"/>
+</record_update>
