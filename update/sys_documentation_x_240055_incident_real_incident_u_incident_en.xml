@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_incident" label="Incident" language="en" table="x_240055_incident_real_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_incident</element>
+            <help/>
+            <hint/>
+            <label>Incident</label>
+            <language>en</language>
+            <name>x_240055_incident_real_incident</name>
+            <plural>Incidents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chenhowa</sys_created_by>
+            <sys_created_on>2018-08-23 02:43:36</sys_created_on>
+            <sys_id>bcb2b91adb80a300f4a3fbefbf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident</sys_name>
+            <sys_package display_value="Incident Management" source="x_240055_incident">2ed07d5edbcc6300f4a3fbefbf961979</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Incident Management">2ed07d5edbcc6300f4a3fbefbf961979</sys_scope>
+            <sys_update_name>sys_documentation_x_240055_incident_real_incident_u_incident_en</sys_update_name>
+            <sys_updated_by>chenhowa</sys_updated_by>
+            <sys_updated_on>2018-08-23 02:43:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Real Incident" max_length="40" name="x_240055_incident_real_incident" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Incident" max_length="32" name="u_incident" reference="incident" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference" unique="true"/>
+        <element label="Short description" max_length="255" name="u_short_description" type="string"/>
+        <index name="index">
+            <element name="u_incident"/>
+        </index>
+    </element>
+</database>

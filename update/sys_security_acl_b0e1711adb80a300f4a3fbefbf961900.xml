@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_240055_incident_real_incident</description>
+        <name>x_240055_incident_real_incident</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>chenhowa</sys_created_by>
+        <sys_created_on>2018-08-23 02:40:04</sys_created_on>
+        <sys_id>b0e1711adb80a300f4a3fbefbf961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_240055_incident_real_incident</sys_name>
+        <sys_package display_value="Incident Management" source="x_240055_incident">2ed07d5edbcc6300f4a3fbefbf961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management">2ed07d5edbcc6300f4a3fbefbf961979</sys_scope>
+        <sys_update_name>sys_security_acl_b0e1711adb80a300f4a3fbefbf961900</sys_update_name>
+        <sys_updated_by>chenhowa</sys_updated_by>
+        <sys_updated_on>2018-08-23 02:40:04</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
